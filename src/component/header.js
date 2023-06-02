@@ -1,7 +1,7 @@
 import React from "react";
-class App extends React.Component {
+class header extends React.Component {
   render() {
     return <div></div>;
   }
 }
-export default App;
+export default header;
